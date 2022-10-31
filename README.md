@@ -11,3 +11,4 @@
 |**프로젝트 환경설정**|View 환경설정, 빌드하고 실행하기|https://velog.io/@kansun12/Spring-Boot-웰컴페이지-빌드하기|
 |**스프링 웹 개발 기초**|정적컨텐츠, MVC, API|https://velog.io/@kansun12/Spring-Boot-정적컨텐츠-MVC-API|
 |**회원 관리 예제 - 백엔드 개발**|비즈니스 요구사항 정리, 회원 도메인과 레포지토리 만들기, 테스트 코드 작성|https://velog.io/@kansun12/Spring-Boot-회원관리-예제-초기-세팅-테스트-코드-작성|
+|**회원 관리 예제 - 백엔드 개발**|회원 서비스 개발, 회원 서비스 테스트|https://velog.io/@kansun12/Spring-Boot-회원-서비스-개발-회원-서비스-테스트|
