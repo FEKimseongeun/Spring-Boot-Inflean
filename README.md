@@ -12,3 +12,4 @@
 |**스프링 웹 개발 기초**|정적컨텐츠, MVC, API|https://velog.io/@kansun12/Spring-Boot-정적컨텐츠-MVC-API|
 |**회원 관리 예제 - 백엔드 개발**|비즈니스 요구사항 정리, 회원 도메인과 레포지토리 만들기, 테스트 코드 작성|https://velog.io/@kansun12/Spring-Boot-회원관리-예제-초기-세팅-테스트-코드-작성|
 |**회원 관리 예제 - 백엔드 개발**|회원 서비스 개발, 회원 서비스 테스트|https://velog.io/@kansun12/Spring-Boot-회원-서비스-개발-회원-서비스-테스트|
+|**스프링 빈과 의존관계**|컴포넌트 스캔과 자동 의존관계 설정, 자바코드로 직접 스프링 빈 등록하기|https://velog.io/@kansun12/Spring-Boot-시작하기|
