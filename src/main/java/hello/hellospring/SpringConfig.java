@@ -15,6 +15,6 @@ public class SpringConfig {
 
     @Bean
     public MemberRepository memberRepository(){
-        return new MemoryMemberRepository();
+        return new MemoryMemberRepository(); // 나중에는 DbMemberRepository로 이름만 바꿔 사용 가능
     }
 }
